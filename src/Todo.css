@@ -1,0 +1,9 @@
+.todo__list {
+  text-align: center;
+}
+
+.modal {
+  background-color: white;
+  height: 100px;
+  width: 400px;
+}
